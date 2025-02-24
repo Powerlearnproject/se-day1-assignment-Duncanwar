@@ -5,12 +5,16 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is a process of designing, developing, testing and maintaining software applications.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+- Version Control: To able to control and manage source code.
+- Prompt Engineering: AI that supports your work and provides you insights.
+- OOP: Object Oriented Programming was developed to help write codes by not worrying about the low-level code
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
